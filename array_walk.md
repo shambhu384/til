@@ -1,4 +1,5 @@
-```<?php
+```php
+   <?php
 
    public function getTotal($tax)
     {
