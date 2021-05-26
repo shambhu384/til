@@ -1,4 +1,4 @@
-`<?php
+```<?php
 
    public function getTotal($tax)
     {
@@ -16,4 +16,4 @@
         return round($total, 2);
     }
 
-`
+```
